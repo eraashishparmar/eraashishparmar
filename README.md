@@ -9,7 +9,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://www.linkedin.com/in/aashish-parmar-a48377220/)
+- :mailbox:How to reach me: [![Linkedin Badge](linkedin.com/in/aashish-parmar-a48377220)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
